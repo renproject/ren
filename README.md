@@ -6,7 +6,6 @@ If you are looking to understanding more about what the Ren protocol is, or the 
 
 - Ren https://docs.renproject.io/ren
 - Darknodes https://docs.renproject.io/darknodes
-- Lightnodes https://docs.renproject.io/lightnodes
 - Developer Docs https://docs.renproject.io/developers
 
 Contributed to with ♥ by the Ren community.
